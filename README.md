@@ -85,9 +85,14 @@ Full-stack SaaS application for real-time retail management, featuring advanced 
 * Auto-refresh charts and production-ready environment.
 * Test all API endpoints after deployment.
 
-### 12. Notes
+## Notes
+- All timestamps use **Dhaka timezone (UTC+6)** with AM/PM format
+- Duplicate entries are prevented in dropdowns and tables
+- Currency in BDT (৳)
+- Charts have fixed height and consistent spacing
+- Fully responsive, SaaS-style design
 
-* All timestamps are Dhaka timezone (UTC+6) with AM/PM format.
-* Dropdowns and tables are de-duplicated.
-* Mobile-first responsive design.
-* Role-based access control enforced.
+
+## Author
+**Mahmudul Alam Nirjon**  
+Data Analyst | Business Intelligence Enthusiast
